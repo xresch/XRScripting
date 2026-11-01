@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.xresch</groupId>
 	<artifactId>xrscripting</artifactId>
-	<version>1.1.2</version>
+	<version>1.1.4</version>
 	
 	<name>XRUtils</name>
 	<description>Library containing helper classes to execute javascript from Java.</description>
@@ -54,7 +54,7 @@
 		<dependency>
 		    <groupId>com.xresch</groupId>
 			<artifactId>xrutils</artifactId>
-			<version>1.1.1</version>
+			<version>1.1.4</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.graalvm.js/js -->
